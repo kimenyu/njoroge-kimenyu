@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/njoroge-kimenyu/static/css/main.682190e4.css",
+    "main.js": "/njoroge-kimenyu/static/js/main.74a2275a.js",
+    "index.html": "/njoroge-kimenyu/index.html",
+    "main.682190e4.css.map": "/njoroge-kimenyu/static/css/main.682190e4.css.map",
+    "main.74a2275a.js.map": "/njoroge-kimenyu/static/js/main.74a2275a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682190e4.css",
+    "static/js/main.74a2275a.js"
+  ]
+}
