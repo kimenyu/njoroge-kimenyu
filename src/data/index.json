@@ -1,0 +1,79 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in frontend development using React js(javascript), html, and css."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Proficient in backend development using Spring Boot (Java), Python (Django and Flask), Node.js, and Express.js."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "DevOps",
+      "description": "Experience with DevOps practices including continuous integration, deployment, containerization (Docker), and orchestration (Kubernetes). Familiar with CI/CD pipelines and tools like Jenkins and GitLab CI."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Software Engineering",
+      "description": "Strong foundation in software engineering principles and practices. Skilled in designing scalable and maintainable systems, writing clean and efficient code, and implementing best coding practices. Proficient in problem-solving and troubleshooting."
+    }
+  ],
+  
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/chat.jpeg",
+        "title": "ChatEase",
+        "description": "ChatEase is a chat application built using Node.js and WebSockets. It allows users to communicate in real-time and exchange messages instantly.",
+        "githubLink": "https://github.com/kimenyu/ChatEase.git"
+      },
+      {
+        "id": "2",
+        "src": "./img/mealdrop.avif",
+        "title": "MealDrop",
+        "description": "MealDrop is a meal delivery platform built using microservices and Node.js. It aims to simplify the process of ordering and delivering meals to customers.",
+        "githubLink": "https://github.com/kimenyu/Meal_drop.git"
+      },
+      {
+        "id": "3",
+        "src": "./img/ecomm.jpeg",
+        "title": "Ecommerce",
+        "description": "Ecommerce is an e-commerce platform developed using Spring Boot. It provides users with a seamless shopping experience and efficient management of products.",
+        "githubLink": "https://github.com/kimenyu/springboot-ecommerce.git"
+      }
+    ],  
+    "testimonials": [
+      {
+        "id": "1",
+        "rating": "5",
+        "avatar": "./img/male.jpeg",
+        "description": "Working with this team was a transformative experience! Their innovative solutions propelled our project to new heights.",
+        "author_name": "Joel Ngige",
+        "author_designation": "Marketing Marvel"
+      },
+      {
+        "id": "2",
+        "rating": "5",
+        "avatar": "./img/female.jpeg",
+        "description": "Absolutely outstanding service! They not only met but exceeded our expectations, delivering exceptional results with finesse.",
+        "author_name": "Alice Johnson",
+        "author_designation": "Chief Enthusiast Officer"
+      },
+      {
+        "id": "3",
+        "rating": "5",
+        "avatar": "./img/male1.jpeg",
+        "description": "From concept to execution, they flawlessly brought our vision to life, leaving us in awe of their creativity and dedication.",
+        "author_name": "Jason Smith",
+        "author_designation": "Software Engineer"
+      }
+  ]
+  
+}
