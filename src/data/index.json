@@ -29,10 +29,10 @@
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/chat.jpeg",
+        "src": "https://chatease-frontend.vercel.app/wlcome.png",
         "title": "ChatEase",
-        "description": "ChatEase is a chat application built using Node.js and WebSockets. It allows users to communicate in real-time and exchange messages instantly.",
-        "githubLink": "https://github.com/kimenyu/ChatEase.git"
+        "description": "ChatEase is a chat application built using Node.js and WebSockets. It allows users to communicate in real-time and exchange messages instantly. https://chatease-frontend.vercel.app/",
+        "githubLink": "https://github.com/kimenyu/chatease-frontend"
       },
       {
         "id": "2",
