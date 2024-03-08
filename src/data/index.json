@@ -31,7 +31,7 @@
         "id": "1",
         "src": "https://chatease-frontend.vercel.app/wlcome.png",
         "title": "ChatEase",
-        "description": "ChatEase is a chat application built using Node.js and WebSockets. It allows users to communicate in real-time and exchange messages instantly. [https://chatease-frontend.vercel.app/](https://chatease-frontend.vercel.app/)",
+        "description": "ChatEase is a chat application built using Node.js and WebSockets. It allows users to communicate in real-time and exchange messages instantly. The demo link is on github",
         "githubLink": "https://github.com/kimenyu/chatease-frontend"
       },
       {
