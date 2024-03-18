@@ -46,7 +46,7 @@
         "src": "./img/ecomm.jpeg",
         "title": "Ecommerce",
         "description": "Ecommerce is an e-commerce platform developed using Spring Boot. It provides users with a seamless shopping experience and efficient management of products.",
-        "githubLink": "https://github.com/kimenyu/springboot-ecommerce.git"
+        "githubLink": "https://github.com/kimenyu/ecommerce-backend-springboot.git"
       }
     ],  
     "testimonials": [
