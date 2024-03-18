@@ -38,8 +38,8 @@
         "id": "2",
         "src": "./img/mealdrop.avif",
         "title": "MealDrop",
-        "description": "MealDrop is a meal delivery platform built using microservices and Node.js. It aims to simplify the process of ordering and delivering meals to customers.",
-        "githubLink": "https://github.com/kimenyu/Meal_drop.git"
+        "description": "MealDrop is a meal delivery platform built using microservice architecture, Node js and Typescript. It aims to simplify the process of ordering and delivering meals to customers.",
+        "githubLink": "https://github.com/kimenyu/mealdrop-typescript.git"
       },
       {
         "id": "3",
